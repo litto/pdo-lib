@@ -7,7 +7,7 @@ When you do a project in php related to web, the main thing you have to came acr
 
 Install the Library via composer using:-
 
-composer require litto/pdo-lib:v1.0
+composer require litto/pdo-lib:v2.0
 
 ## Folder Structure
 
